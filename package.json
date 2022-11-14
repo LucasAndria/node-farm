@@ -4,7 +4,8 @@
   "description": "Apprendre node.js et express.js",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "startDev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "Lucas ANDRIANARIJAONA",
   "license": "ISC",
